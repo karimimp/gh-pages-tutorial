@@ -2,4 +2,4 @@ title: Example project
 description: Project description in here.
 theme: jekyll-theme-minimal
 future: true
-baseurl: "/gh-pages-example"
+baseurl: "/gh-pages-tutorial"
